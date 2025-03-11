@@ -8,7 +8,7 @@ int main()
 
     for(auto i : arr)
     {
-        cout<<i<<endl;
+        cout<<i+1<<endl;
     }
 
     return 0;
